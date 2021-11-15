@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://telegra.ph/file/a9443b6240df15ccd0424.jpg">
+   <img src="https://telegra.ph/file/ad6f3c43aa2a983c5a608.jpg">
 </p>
 
 # Miss Akshi
@@ -7,11 +7,11 @@
 
 A modular Telegram Python bot running on python3 with a sqlalchemy database.
 
-### Found me on telegram [Miss Akshi](https://t.me/Toxic_demon_bot)
+### Found me on telegram [Toxic demon](https://t.me/Toxic_demon_bot)
 
 ## DEPLOY ON HEROKU :
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/darkphoenix2601/Miss-Akshi)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/darkphoenix2601/Toxic_demon)
 
 
 "Toxic_demon" 
