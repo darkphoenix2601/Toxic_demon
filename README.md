@@ -17,7 +17,7 @@
 <p align="center">
 <a href="https://app.codacy.com/manual/aksr-aashish/darkphoenix2601/Toxic_demon/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
     <a href="https://github.com/darkphoenix2601/Toxic_demon"> <img src="https://img.shields.io/github/repo-size/darkphoenix2601/Toxic_demon?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/darkphoenix2601/Toxic_demon/commits/aksr-aashish"> <img src="https://img.shields.io/github/last-commit/darkphoenix2601/Toxic_demon?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/darkphoenix2601/Toxic_demon/commits"> <img src="https://img.shields.io/github/last-commit/darkphoenix2601/Toxic_demon?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/darkphoenix2601/Toxic_demon/issues"> <img src="https://img.shields.io/github/issues/darkphoenix2601/Toxic_demon?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/darkphoenix2601/Toxic_demon/network/members"> <img src="https://img.shields.io/github/forks/darkphoenix2601/Toxic_demon?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
